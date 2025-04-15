@@ -1,0 +1,3 @@
+[application]
+config/name="Git Project File"
+run/main_scene="res://Main.tscn"
